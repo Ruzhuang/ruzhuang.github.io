@@ -1,2 +1,2 @@
 Ruihan's User page <br />
-My favorite programming language is C++ because CSE 100 used C++.
+My favorite programming language is C++ because I used C++ in CSE100.
