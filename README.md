@@ -24,7 +24,7 @@ int main() {
 
 ## relative link
 
-link to an [empty file](empty.md) in the repository
+link to a [trivial file](trivial.md) in the repository
 
 
 ## The list of starter pokemons
