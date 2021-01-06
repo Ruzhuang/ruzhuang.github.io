@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Ruzhuang/ruzhuang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a link to my [github profile](https://github.com/Ruzhuang)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I like **puppies**, especially my friend *snoopy*.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## A quote I found online
 
-# Header 1
-## Header 2
-### Header 3
+Stephen Chbosky said
+> We accept the love we think we deserve.
 
-- Bulleted
-- List
+## quoting codes
+Hello world in C++
+```
+#include <iostream>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## relative link
 
-### Jekyll Themes
+link to an [empty file](empty.md) in the repository
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ruzhuang/ruzhuang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## The list of starter pokemons
+- Squirtle
+- Bulbasuar
+- Charmander
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## The list of starter pokemons in alphabatical order
+1. Bulbasuar
+2. Charmander
+3. Squirtle
+
+## The list of starter pokemons in alphabatical order with their type
+1. Bulbasuar
+   - grass
+2. Charmander
+   - fire
+3. Squirtle
+   - water
+
+## Task List for this page
+
+- [x] Try every important construct
+- [ ] Complete information about me as a programmer
