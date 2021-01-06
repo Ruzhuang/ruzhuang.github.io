@@ -4,7 +4,7 @@ This is a link to my [github profile](https://github.com/Ruzhuang)
 
 I like **puppies**, especially my friend *snoopy*.
 
-
+![snoopy](snoopy.jpg)
 
 ## A quote I found online
 
